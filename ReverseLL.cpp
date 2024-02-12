@@ -1,4 +1,4 @@
-class {
+class Solution{
     public:
     ListNode* reversell(ListNode* head){
 
@@ -15,3 +15,21 @@ class {
         return prev;
     }
 };
+
+
+
+//Method 2 ->
+class Solution {
+public:
+    ListNode* reverseList(ListNode* head) {
+        if(!head || !head->next){
+            return head;
+        }
+        ListNode *temp = reverseList(head->next);
+        head->next->next = head;
+        head->next = NULL;
+        return temp;
+    }
+};
+
+
