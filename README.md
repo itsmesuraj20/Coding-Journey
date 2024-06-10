@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/itsmesuraj20/Coding-Journey/tree/master/0140-word-break-ii) |
+| [1137-height-checker](https://github.com/itsmesuraj20/Coding-Journey/tree/master/1137-height-checker) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -40,3 +41,11 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/itsmesuraj20/Coding-Journey/tree/master/0140-word-break-ii) |
+# Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/itsmesuraj20/Coding-Journey/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/itsmesuraj20/Coding-Journey/tree/master/1137-height-checker) |
