@@ -49,3 +49,11 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/itsmesuraj20/Coding-Journey/tree/master/1137-height-checker) |
+# Math
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/itsmesuraj20/Coding-Journey/tree/master/1585-the-kth-factor-of-n) |
+# Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/itsmesuraj20/Coding-Journey/tree/master/1585-the-kth-factor-of-n) |
