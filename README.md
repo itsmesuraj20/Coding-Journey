@@ -8,6 +8,7 @@
 # String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/itsmesuraj20/Coding-Journey/tree/master/0020-valid-parentheses) |
 | [0140-word-break-ii](https://github.com/itsmesuraj20/Coding-Journey/tree/master/0140-word-break-ii) |
 | [0409-longest-palindrome](https://github.com/itsmesuraj20/Coding-Journey/tree/master/0409-longest-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/itsmesuraj20/Coding-Journey/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -57,3 +58,7 @@
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/itsmesuraj20/Coding-Journey/tree/master/1585-the-kth-factor-of-n) |
+# Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/itsmesuraj20/Coding-Journey/tree/master/0020-valid-parentheses) |
